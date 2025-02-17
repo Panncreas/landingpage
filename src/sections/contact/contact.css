@@ -1,0 +1,29 @@
+.contact{
+    display: flex;
+    height: 500px;
+    margin: 80px 60px 0 120px;
+  }
+  
+  .contact-us{
+    margin-left: 40px;
+    text-align: start;
+  }
+
+  .contact-us h1{
+    font-size: 25px;
+    font-weight: normal;
+  }
+
+  .contact-us h2{
+    font-size: 18px;
+    font-weight: normal;
+  }
+
+  .list-contact {
+    display: flex;
+    align-items: center;
+  }
+
+  .list-contact img{
+    margin-right: 10px;
+  }
