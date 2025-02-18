@@ -2,7 +2,6 @@ import logo from '../../assets/logoAJK.png';
 import './nav.css';
 import { useState, useEffect } from "react";
 import {Link} from 'react-scroll/modules'
-import drop from '../../assets/caret-down-outline.svg'
 
 export default function Nav() {
     const [dropdownVisible, setDropdownVisible] = useState(false);
